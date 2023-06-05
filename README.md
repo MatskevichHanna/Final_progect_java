@@ -1,6 +1,6 @@
-# Final_progect_java
-Точка входа - App.java 
-Команды: LOTTERY, ADD, EXIT, PRIZES UI: 
+# Итоговый проект "Магазин игрушек"
+## Точка входа - файл Main.java 
+Команды: LOTTERY, ADD, EXIT, PRIZES: 
 Lottery - сыграть в лоттерею 
 ADD - организовать поставку N кол-ва игрушек 
 PRIZES - посмотреть список полученных призов 
